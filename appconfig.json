@@ -1,0 +1,7 @@
+{
+  "Rules": {
+    "Attempts": 5,
+    "MinOfRange": 10,
+    "MaxOfRange": 50
+  }
+}
